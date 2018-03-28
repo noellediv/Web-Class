@@ -1,0 +1,19 @@
+/*
+* Noelle DiVirgilio
+* March 28, 2018
+* CSS Practice
+*/
+
+
+/* The universal selector */
+
+* {
+
+}
+
+/* Put body attributes here */
+
+body { Background-color: blue;
+		color: black;
+
+}
