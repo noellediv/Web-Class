@@ -7,13 +7,19 @@
 
 /* The universal selector */
 
-* {
+header { 
+text-decoration: overline underline;
+font-size: 50px;
+text-align: center;
 
 }
+
 
 /* Put body attributes here */
 
-body { Background-color: blue;
+body { Background-color: pink;
 		color: black;
-
+font-family: Arial, Helvetica, san-serif;
 }
+
+img { float: right; }
