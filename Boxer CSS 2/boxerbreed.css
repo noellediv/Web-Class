@@ -1,0 +1,29 @@
+/*
+* Noelle DiVirgilio
+* March 28, 2018
+* CSS Practice
+*/
+
+
+/* The universal selector */
+
+header { 
+text-decoration: overline underline;
+font-size: 50px;
+text-align: center;
+background-color: bisque;
+
+}
+
+
+/* Put body attributes here */
+
+body { Background-color: lightpink;
+		color: black;
+font-family: Arial, Helvetica, san-serif;
+}
+
+img { float: right; }
+
+p { background-color: white;
+color:darkslategray; }
