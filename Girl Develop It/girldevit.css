@@ -1,0 +1,53 @@
+/*
+* Noelle DiVirgilio
+* March 28, 2018
+* CSS Girl Develop It 
+*/
+
+/* directions for the header */ 
+
+header { 
+text-align: center; 
+background-color: #ff6666;
+}
+
+/* directions for the h1 */ 
+
+h1 {
+font-family:cursive;
+text-decoration: underline;
+}
+
+/* directions for the body */ 
+
+body {
+Background-color: mistyrose;
+color: black;
+font-family: Arial, Helvetica, san-serif;
+}
+
+/* directions for the photos */ 
+
+.photo { 
+float: right; 
+width: 200px
+Height: 200px
+}
+
+/* directions for the h3 */ 
+
+h3 {
+font-family:cursive;
+text-decoration: underline;
+}
+
+/* directions for the links */ 
+
+a:link {
+color: mediumpurple;
+}
+
+a:hover, a:focus {
+color: deeppink;
+font-size: 16pt
+}
