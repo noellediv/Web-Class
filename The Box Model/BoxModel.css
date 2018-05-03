@@ -1,0 +1,42 @@
+/*
+* Noelle DiVirgilio
+* May 1, 2018
+* The Box Model
+*/
+
+*{ margin: 0;
+padding: 0;
+}
+
+
+h1 {
+height: 50px;
+width: 420px;
+border: 2px dotted black; 
+padding: 10px 5px 10px 5px;
+margin: 20px 10px 5px 10px;
+}
+
+p {
+height: 50px;
+width: 420px;
+border: 2px dotted black; 
+padding: 10px 5px 10px 5px;
+margin: 5px 10px 10px 10px;
+}
+
+main {
+height: 200px;
+width: 460px;
+border: 2px solid black; 
+padding: 10px 5px .01px 5px;
+margin: 20px 10px 10px 10px;
+}
+
+body {
+height: 250px;
+width: 500px;
+border: 2px dotted black; 
+padding: 10px 5px 10px 5px;
+margin: 20px 10px 10px 10px;
+}
