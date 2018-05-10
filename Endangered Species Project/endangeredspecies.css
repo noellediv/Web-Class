@@ -1,0 +1,134 @@
+/*
+* Noelle DiVirgilio
+* May 10, 2018
+* Endangered Species Project
+*/
+
+
+	/* universal selector */ 
+
+*{ 
+	background-color: blanchedalmond; 
+	margin: 0;
+	padding: 0;
+}
+
+	/* controls the body format */
+
+body { 
+	width:  1200px;
+	margin: auto;
+}
+
+	/* controls h1 format */
+
+h1 {
+	color: maroon;
+	text-align: center;
+	border-bottom: 5px solid maroon; 
+	padding: 25px 5px 10px 0px;
+	margin: 25px 5px 10px 5px;
+	}
+
+	/* image that is floated left around first and second paragraphs */
+
+.parmawallaby1 {
+	border: 2px dotted maroon;
+	float:left;
+	height: 240px;
+	width: 220px;
+	padding: 5px 5px 5px 5px;
+	margin:  5px 5px 15px 5px;
+	}
+	
+	/* the following images 2-6 are formatted in a row */
+	
+.parmawallaby2 {
+	border: 2px dotted brown;
+	clear: both;
+	height: 220px;
+	width: 190px;
+	padding: 10px 5px 15px 5px;
+	margin:  5px 5px 15px 2px;
+	}
+	
+.parmawallaby3 {
+	border: 2px dotted brown;
+	height: 220px;
+	width: 190px;
+	padding: 10px 5px 15px 5px;
+	margin:  5px 5px 15px 5px;
+	}
+	
+.parmawallaby4 {
+	border: 2px dotted brown;
+	height: 220px;
+	width: 190px;
+	padding: 10px 5px 15px 5px;
+	margin:  5px 5px 15px 5px;
+	}
+	
+.parmawallaby5 {
+	border: 2px dotted brown;
+	height: 220px;
+	width: 200px;
+	padding: 10px 5px 15px 5px;
+	margin:  5px 5px 15px 5px;
+	}
+	
+.parmawallaby6 {
+	border: 2px dotted brown;
+	height: 220px;
+	width: 220px;
+	padding: 10px 5px 15px 5px;
+	margin:  5px 5px 15px 5px;
+	}
+	
+	/* controls paragraph format */
+	
+p {
+	padding: 5px 5px 5px 5px;
+	margin: 5px 5px 5px 5px;
+	}
+	
+	/* controls h3 format */
+	
+h3 {
+	font-size: 20px;
+	color: maroon;
+	padding: 5px 5px 5px 5px;
+	margin: 5px 5px 5px 5px;
+	text-decoration: underline;
+	}
+
+	/* image floated right of the list */
+
+.newzealand{
+	border: 2px dotted brown;
+	float: right;
+	height: 200px;
+	width: 250px;
+	padding: 5px 5px 5px 5px;
+	margin: 5px 5px 5px 5px;
+	}
+	
+	/* used for border around footer */
+	
+footer {
+	clear: right;
+	border-top: 5px solid maroon; 
+	padding: 5px 5px 20px 5px;
+	margin: 5px 5px 5px 5px;
+	}
+	
+	/* id tags used to differentiate the last paragraphs located in footer */
+	
+#thirdpara {
+	color: maroon;
+	}
+	
+#fourthpara {
+	float: right;
+	color: maroon;
+	font-size: 10pt;
+	}
