@@ -1,0 +1,123 @@
+/* Name: Noelle DiVirgilio
+*  Date: May 28, 2018
+*  Innovative Women Project */
+
+/* universal tag to clear margins and padding */ 
+* {
+    margin: 0;
+    padding: 0;
+}
+
+/* controls effects of header */ 
+header {
+	background-color: powderblue;
+	text-align: center;
+	color: #0D1749;
+	border-bottom: 2px solid mediumvioletred;
+	}
+
+/* control effects of body */ 
+body {
+	background-color: papayawhip;
+    width: 90%;
+    margin: 15px auto;
+    border: 2px solid mediumvioletred;
+}
+
+/* control effects of h1 */ 
+h1 {
+    padding: 10px;
+    color: #0D1749;
+}
+
+/* control effects of h2 */ 
+h2 {
+	text-decoration: underline;
+	color: #0D1749;
+	}
+	
+/* control effects of specific h2 */ 
+.h2career {
+	margin: 5px 8px 5px 5px;
+	padding: 5px 5px 5px 5px;
+	}
+
+/* control effects of sidebarA */ 
+#sidebarA {
+	text-align: center;
+    width: 20%;
+    height: 825px;
+    float: left;
+    border-right: 2px solid mediumvioletred;
+}
+
+/* control effects of photo 3  */ 
+.photo3 {
+	height: 350px;
+	width: 200px;
+	border: 2px dotted maroon; 
+	margin: 5px 8px 5px 5px;
+	padding: 5px 5px 5px 5px;
+	}
+	
+/* control effects of photo 1 */ 
+.photo1 {
+	float: left;
+	border: 2px dotted maroon; 
+	margin: 5px 8px 5px 5px;
+	padding: 5px 5px 5px 5px;
+	}
+	
+/* control effects of paragraph 2 */ 
+.para2 {
+	float: clear;
+	margin: 5px 8px 5px 5px;
+	padding: 5px 5px 5px 5px;
+	}
+	
+/* control effects of photo 2 */ 
+.photo2 {
+	height: 250px;
+	width: 300px;
+	float: right;
+	border: 2px dotted maroon; 
+	margin: 5px 8px 5px 5px;
+	padding: 5px 5px 5px 5px;
+	}
+
+/* control effects of main */ 
+main {
+    width: 55%;
+    height:825px;
+    float: left;
+}
+
+/* control effects of paragraph 1 */ 
+.para1 {
+	margin: 5px 8px 5px 5px;
+	padding: 5px 5px 5px 5px;
+	}
+
+/* control effects of sidebarB */ 
+#sidebarB {
+	text-align: center;
+    width: 22%;
+    height: 825px;
+    float: right;
+    border-left: 2px solid mediumvioletred;
+}
+
+/* control effects of paragraph 3 */ 
+.para3 {
+	font-size: 11pt;
+	color: red;
+	float: right;
+	} 
+	
+/* control effects of footer */ 
+footer {
+	background-color: powderblue;
+    clear: both;
+    border-top: 2px solid mediumvioletred;
+}
+
